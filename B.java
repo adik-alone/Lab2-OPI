@@ -11,8 +11,4 @@ public class B {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
-
-    public java.util.List<String> jj() {
-        return new java.util.ArrayList<String>();
-    }
 }

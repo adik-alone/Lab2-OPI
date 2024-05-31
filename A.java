@@ -19,8 +19,4 @@ public class A implements E {
     public String kk() {
         return "Yes";
     }
-
-    public int ae() {
-        return java.lang.Math.abs(-7);
-    }
 }
